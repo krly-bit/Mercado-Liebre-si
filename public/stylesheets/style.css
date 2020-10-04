@@ -1,8 +1,23 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+  font-family: 'Roboto', sans-serif;
+  width:100%;
 }
 
+li{ list-style:none;}
+
 a {
-  color: #00B7FF;
+  color: black; text-decoration:none;
 }
+
+.inicio {  background-color: #EAC926; width:100%;}
+
+.titulo-galeria { color:#666;  
+  background-color:#ebebeb;}
+  .oferta{ color:#1259c3; }
+
+  .productos{ border-bottom:solid #ebebeb 40px;  }
+
+  img{width:100%;}
+  .fic{ color: #03264C;}
+  .entrega{color:#39b54a;}
